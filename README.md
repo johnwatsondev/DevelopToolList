@@ -1,6 +1,6 @@
-##### SublimeText
+#### [SublimeText](http://www.sublimetext.com/)
 
-###### Useful Plugin
+##### Useful Plugin
 [package control](https://packagecontrol.io/installation)  
 [material-theme](https://github.com/equinusocio/material-theme)  
 [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)  
