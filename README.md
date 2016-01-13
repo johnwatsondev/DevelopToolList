@@ -28,3 +28,8 @@ Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
 #### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 A Caffeine clone for OS X Yosemite and El Capitan (including Dark Mode).
+
+#### [ImageOptim](https://github.com/pornel/ImageOptim)
+GUI image optimizer for Mac
+
+
