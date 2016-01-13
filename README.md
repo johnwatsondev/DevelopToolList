@@ -17,9 +17,14 @@
 #### [nvm](https://github.com/creationix/nvm)
 Node Version Manager - Simple bash script to manage multiple active node.js versions
 
+#### [pyenv](https://github.com/yyuu/pyenv)
+Simple Python version management
+
 #### [thefuck](https://github.com/nvbn/thefuck)
 Magnificent app which corrects your previous console command.
 
+#### [gg](https://github.com/qw3rtman/gg)
+Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts https://git.io/gitgoodies
 
 ### Software
 
