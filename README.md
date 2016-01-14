@@ -26,6 +26,9 @@ A CLI workflow for the administration of Mac applications distributed as binarie
 #### [nvm](https://github.com/creationix/nvm)
 Node Version Manager - Simple bash script to manage multiple active node.js versions
 
+#### [rvm](https://github.com/rvm/rvm)
+Ruby enVironment (Version) Manager
+
 #### [pyenv](https://github.com/yyuu/pyenv)
 Simple Python version management
 
