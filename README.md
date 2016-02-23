@@ -55,3 +55,10 @@ GUI image optimizer for Mac
 
 ##### Extensions
 [chrome-github-avatar](https://github.com/anasnakawa/chrome-github-avatars)  
+[google-translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)  
+[grammarly-spell-checker](https://chrome.google.com/webstore/detail/grammarly-spell-checker-g/kbfnbcaeplbcioakkpcpgfkobkghlhen)  
+[jsonview](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)  
+[Octotree](https://github.com/buunguyen/octotree)  
+[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
+[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+[vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)  
