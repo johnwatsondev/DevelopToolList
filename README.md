@@ -71,6 +71,7 @@ GUI image optimizer for Mac
 [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)  
 [custom-iterm-applescripts-for-alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)  
 [alfred-switch-audio](https://github.com/uchida/alfred-switch-audio)  
+[Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr)  
 
 ### Network proxy
 ---
