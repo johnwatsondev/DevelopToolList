@@ -63,6 +63,15 @@ GUI image optimizer for Mac
 [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)  
 
+#### [Alfred](https://www.alfredapp.com/)
+
+##### Workflow
+[alfred-workflows](https://github.com/zenorocha/alfred-workflows)  
+[alfred-workflow](https://github.com/deanishe/alfred-workflow)  
+[alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)  
+[custom-iterm-applescripts-for-alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)  
+[alfred-switch-audio](https://github.com/uchida/alfred-switch-audio)  
+
 ### Network proxy
 ---
 #### [anyproxy](https://github.com/alibaba/anyproxy)
