@@ -70,6 +70,7 @@ GUI image optimizer for Mac
 [alfred-workflow](https://github.com/deanishe/alfred-workflow)  
 [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)  
 [custom-iterm-applescripts-for-alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)  
+[alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)  
 [alfred-switch-audio](https://github.com/uchida/alfred-switch-audio)  
 [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr)  
 
