@@ -62,7 +62,8 @@ GUI image optimizer for Mac
 [vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)  
 
 #### Safari Extensions
-[Sessions](https://sessions-extension.github.io/Sessions/)
+[Sessions](https://sessions-extension.github.io/Sessions/)  
+[tablister](http://tablister.com/)
 
 #### [Alfred](https://www.alfredapp.com/)
 
