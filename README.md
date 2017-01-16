@@ -51,9 +51,7 @@ A Caffeine clone for OS X Yosemite and El Capitan (including Dark Mode).
 #### [ImageOptim](https://github.com/pornel/ImageOptim)
 GUI image optimizer for Mac
 
-#### [Chrome](https://www.google.com/chrome/)
-
-##### Extensions
+#### Chrome Extensions
 [chrome-github-avatar](https://github.com/anasnakawa/chrome-github-avatars)  
 [google-translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)  
 [grammarly-spell-checker](https://chrome.google.com/webstore/detail/grammarly-spell-checker-g/kbfnbcaeplbcioakkpcpgfkobkghlhen)  
@@ -62,6 +60,9 @@ GUI image optimizer for Mac
 [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
 [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 [vysor](https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm)  
+
+#### Safari Extensions
+[Sessions](https://sessions-extension.github.io/Sessions/)
 
 #### [Alfred](https://www.alfredapp.com/)
 
