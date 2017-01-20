@@ -68,6 +68,7 @@ GUI image optimizer for Mac
 #### [Alfred](https://www.alfredapp.com/)
 
 ##### Workflow
+[AlfredGoogleTranslateWorkflow](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow)  
 [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)  
 [alfred-workflows](https://github.com/zenorocha/alfred-workflows)  
 [alfred-workflow](https://github.com/deanishe/alfred-workflow)  
