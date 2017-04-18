@@ -86,3 +86,11 @@ GUI image optimizer for Mac
 ### Create Json Model
 ---
 #### [JSONExport](https://github.com/Ahmed-Ali/JSONExport)
+
+### Markdown to slide/presentation
+---
+#### [Deckset](https://www.decksetapp.com/)  
+#### [remark](https://github.com/gnab/remark)  
+#### [markdown-to-slides](https://github.com/partageit/markdown-to-slides)  
+#### [marp](https://github.com/yhatt/marp)  
+#### [gitpitch](https://gitpitch.com/)
