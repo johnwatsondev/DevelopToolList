@@ -89,6 +89,7 @@ GUI image optimizer for Mac
 
 ### Markdown to slide/presentation
 ---
+#### [nodeppt](https://github.com/ksky521/nodeppt)  
 #### [Deckset](https://www.decksetapp.com/)  
 #### [remark](https://github.com/gnab/remark)  
 #### [markdown-to-slides](https://github.com/partageit/markdown-to-slides)  
