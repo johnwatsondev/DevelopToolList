@@ -24,8 +24,17 @@ Magnificent app which corrects your previous console command.
 #### [gg](https://github.com/qw3rtman/gg)
 Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts https://git.io/gitgoodies
 
-#### []()
+#### [howdoi](https://github.com/gleitz/howdoi)
+instant coding answers via the command line
 
+#### [vtop](https://github.com/MrRio/vtop)
+Wow such top. So stats. More better than regular top.
+
+#### [ripgrep](https://github.com/BurntSushi/ripgrep)
+ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+
+#### [ccat](https://github.com/jingweno/ccat)
+Colorizing `cat`
 
 ### Software
 ---
@@ -42,8 +51,8 @@ Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts ht
 [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)  
 [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter)  
 
-#### [Karabiner](https://github.com/tekezo/Karabiner)
-Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+#### [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)
+The next generation Karabiner for macOS Sierra
 
 #### [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 A Caffeine clone for OS X Yosemite and El Capitan (including Dark Mode).
